@@ -29,6 +29,7 @@
       </Group>
     </DimensionLayout>
   </Layout>
+  
   <SubComponents>
     <Container class="javax.swing.JLayeredPane" name="jLayeredPane1">
       <Properties>
