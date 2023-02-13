@@ -14,7 +14,6 @@ import javax.swing.JOptionPane;
  * @author Alan
  */
 
-
 public class Deposit extends javax.swing.JFrame {
 private static Connection conn;
     private static Statement st;
